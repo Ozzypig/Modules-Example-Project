@@ -1,0 +1,21 @@
+{
+	"name": "MyProject",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Modules": {
+				"$path": "lib/Modules/Modules.rbxmx"
+			},
+			"MyProject": {
+				"$path": "src/ReplicatedStorage"
+			}
+		},
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"MyProject": {
+				"$path": "src/ServerScriptService"
+			}
+		}
+	}
+}
